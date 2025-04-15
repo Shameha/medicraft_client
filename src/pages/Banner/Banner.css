@@ -1,0 +1,36 @@
+.slide {
+    
+    margin-bottom: 10vh;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* border-radius: 20px; */
+}
+
+.slide1{
+
+    background-image: url('../../assets/pexels-antonella-traversaro-445347-1138746.jpg');
+    opacity: 0.9;
+    
+}
+
+.slide2{
+
+    background-image: url('../../assets/pexels-padrinan-3936421.jpg');
+    opacity: 0.9;
+}
+
+.slide3{
+    background-image: url('../../assets/pexels-pixabay-40568.jpg');
+    opacity: 0.9;
+}
+
+.slide4{
+
+    background-image: url('../../assets/pexels-polina-tankilevitch-3873209.jpg');
+}

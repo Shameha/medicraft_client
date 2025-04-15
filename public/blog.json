@@ -1,0 +1,223 @@
+[
+  {
+    "_id": 1,
+    "name": "Asthma",
+    "description": "A condition in which a person's airways become inflamed, narrow and swell, and produce extra mucus, which makes it difficult to breathe.",
+    "symptoms": ["Shortness of breath", "Chest tightness", "Wheezing", "Coughing"],
+    "medicine": ["Salbutamol Inhaler", "Fluticasone", "Montelukast"],
+    "cure": "Inhalers (bronchodilators), corticosteroids, avoiding triggers.",
+    "first_aid": "Help the person sit upright, use their inhaler, call emergency services if they do not improve.",
+    "image_url": "https://i.ibb.co.com/9kvxqjL2/pexels-cottonbro-5858855.jpg",
+    "emergency": "Help the person sit up, calm them, assist with inhaler, and call for emergency help if they don’t improve quickly."
+   
+  },
+  {
+    "_id": 2,
+    "name": "Diabetes",
+    "description": "A chronic condition that affects how the body processes blood sugar (glucose).",
+    "symptoms": ["Increased thirst", "Frequent urination", "Extreme hunger", "Unexplained weight loss"],
+    "medicine": ["Metformin", "Insulin", "Glipizide"],
+    "cure": "Insulin therapy, medications, healthy diet, and regular exercise.",
+    "first_aid": "If low blood sugar: give sugar or juice; if high: seek medical attention.",
+    "image_url": "https://i.ibb.co.com/jk1w3jPn/pexels-asphotograpy-1001897.jpg",
+    "emergency": "If unconscious due to low sugar, rub sugar on gums and call emergency services immediately."
+  },
+  {
+    "_id": 3,
+    "name": "Heart Attack",
+    "description": "Occurs when blood flow to a part of the heart is blocked for a long enough time that part of the heart muscle is damaged or dies.",
+    "symptoms": ["Chest pain", "Shortness of breath", "Nausea", "Cold sweat"],
+    "medicine": ["Aspirin", "Nitroglycerin", "Atorvastatin"],
+    "cure": "Immediate medical attention, medication, surgery, lifestyle changes.",
+    "first_aid": "Call emergency services, make the person sit and rest, give aspirin if not allergic, monitor consciousness.",
+    "image_url": "https://i.ibb.co.com/0wfp9Sf/pexels-freestocks-128597.jpg",
+    "emergency": "Call emergency help, keep person calm and still, and give aspirin unless allergic. Begin CPR if unconscious and no pulse."
+  },
+  {
+    "_id": 4,
+    "name": "Heat Stroke",
+    "description": "A serious condition caused by your body overheating, usually as a result of prolonged exposure to or physical exertion in high temperatures.",
+    "symptoms": ["High body temperature", "Altered mental state", "Dry or damp hot skin", "Nausea"],
+    "medicine": ["Paracetamol (in some cases)", "Oral Rehydration Salts", "Cool IV fluids"],
+    "cure": "Cooling down the body, hydration, hospitalization if severe.",
+    "first_aid": "Move to a cool place, apply cold packs, give water if conscious, call emergency services.",
+    "image_url": "https://i.ibb.co.com/ccK8QKV7/woman-suffering-from-heatstroke.webp",
+    "emergency": "Cool the person immediately, move them to shade or A/C, apply wet towels, give sips of water, and call for help."
+  },
+  {
+    "_id": 5,
+    "name": "Epilepsy (Seizure)",
+    "description": "A neurological disorder in which brain activity becomes abnormal, causing seizures or periods of unusual behavior, sensations, and sometimes loss of awareness.",
+    "symptoms": ["Uncontrollable jerking", "Loss of consciousness", "Confusion", "Staring spells"],
+    "medicine": ["Valproic Acid", "Carbamazepine", "Lamotrigine"],
+    "cure": "Medications, surgery, vagus nerve stimulation, lifestyle changes.",
+    "first_aid": "Do not restrain, clear area, place on side, time the seizure, call ambulance if lasts more than 5 minutes.",
+    "image_url": "https://i.ibb.co.com/XQzCWp8/seizures.jpg",
+    "emergency": "Clear the area, protect head, don’t restrain or put anything in mouth. After seizure, check breathing and place on side."
+  },
+  {
+    "_id": 6,
+    "name": "Tuberculosis",
+    "description": "A potentially serious infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis.",
+    "symptoms": ["Chronic cough", "Weight loss", "Night sweats", "Fever"],
+    "medicine": ["Isoniazid", "Rifampin", "Ethambutol"],
+    "cure": "Long-term antibiotic treatment (usually 6 months or more).",
+    "first_aid": "Isolate the person, wear a mask, and refer to a healthcare facility.",
+    "image_url": "https://i.ibb.co.com/DfWfL5WW/Download-Young-sick-man-with-chest-pain-and-lungs-1716996219963-1716996220167.jpg",
+    "emergency": "Ensure person is isolated, wear protective gear, and get them to a medical facility quickly to prevent spread."
+  },
+  {
+    "_id": 7,
+    "name": "Malaria",
+    "description": "A life-threatening disease transmitted through the bite of an infected Anopheles mosquito.",
+    "symptoms": ["Fever", "Chills", "Sweating", "Headache", "Nausea"],
+    "medicine": ["Chloroquine", "Artemether-lumefantrine", "Mefloquine"],
+    "cure": "Antimalarial drugs and supportive care.",
+    "first_aid": "Keep the person hydrated, reduce fever, and seek urgent medical treatment.",
+    "image_url": "https://example.com/images/malaria.jpg",
+    "emergency": "Cool the body with wet cloths, keep hydrated, and get to hospital fast to prevent severe complications."
+  },
+  {
+    "_id": 8,
+    "name": "COVID-19",
+    "description": "An infectious disease caused by the SARS-CoV-2 virus, primarily affecting the respiratory system.",
+    "symptoms": ["Fever", "Cough", "Loss of taste/smell", "Fatigue", "Shortness of breath"],
+    "medicine": ["Remdesivir", "Dexamethasone", "Paracetamol"],
+    "cure": "Supportive care, antivirals, vaccination, and oxygen therapy if severe.",
+    "first_aid": "Isolate the person, provide a mask, and contact health services.",
+    "image_url": "https://example.com/images/covid19.jpg",
+    "emergency": "If difficulty breathing, give oxygen if available, lay on side/stomach, and call emergency services immediately."
+  },
+  {
+    "_id": 9,
+    "name": "Cholera",
+    "description": "An acute diarrheal illness caused by infection of the intestine with Vibrio cholerae bacteria.",
+    "symptoms": ["Watery diarrhea", "Dehydration", "Vomiting", "Low blood pressure"],
+    "medicine": ["Doxycycline", "Azithromycin", "Oral Rehydration Salts"],
+    "cure": "Rehydration therapy and antibiotics in severe cases.",
+    "first_aid": "Provide oral rehydration salts and fluids; seek medical care immediately.",
+    "image_url": "https://example.com/images/cholera.jpg",
+    "emergency": "Start oral rehydration immediately, keep the person lying down, and rush to a hospital to prevent shock."
+  },
+  {
+    "_id": 10,
+    "name": "Dengue Fever",
+    "description": "A mosquito-borne viral infection causing flu-like symptoms and sometimes severe complications.",
+    "symptoms": ["High fever", "Severe headache", "Pain behind eyes", "Joint/muscle pain", "Rash"],
+    "medicine": ["Paracetamol", "IV fluids", "Pain relievers (non-NSAIDs)"],
+    "cure": "Supportive care and hydration; no specific antiviral treatment.",
+    "first_aid": "Keep the person hydrated, avoid NSAIDs, and consult a doctor.",
+    "image_url": "https://example.com/images/dengue.jpg",
+    "emergency": "Control fever with paracetamol, give fluids, monitor for bleeding signs, and go to hospital fast."
+  },
+
+  {
+    "_id": 11,
+    "name": "Anaphylaxis",
+    "description": "A severe allergic reaction that can lead to shock, breathing difficulty, and even death if not treated immediately.",
+    "symptoms": ["Swelling", "Difficulty breathing", "Low blood pressure", "Rash"],
+    "medicine": ["Epinephrine", "Antihistamines", "Corticosteroids"],
+    "cure": "Immediate epinephrine injection and hospital care.",
+    "first_aid": "Inject epinephrine if available, lie person flat, call emergency services.",
+    "image_url": "https://example.com/images/anaphylaxis.jpg",
+    "emergency": "Immediately inject epinephrine. Lay flat with legs up, call emergency services, and start CPR if breathing stops."
+  },
+  {
+    "_id": 12,
+    "name": "Stroke",
+    "description": "A medical emergency when the blood supply to part of the brain is interrupted or reduced.",
+    "symptoms": ["Face drooping", "Arm weakness", "Speech difficulty", "Sudden numbness"],
+    "medicine": ["tPA", "Aspirin", "Clopidogrel"],
+    "cure": "Clot-busting drugs, surgery, rehabilitation.",
+    "first_aid": "Call emergency, keep the person calm and upright.",
+    "image_url": "https://example.com/images/stroke.jpg",
+    "emergency": "Call emergency services, note the time symptoms started, keep the person awake, and lay them on side if unconscious."
+  },
+  {
+    "_id": 13,
+    "name": "Severe Burns",
+    "description": "Third-degree burns damaging all layers of the skin, needing immediate medical care.",
+    "symptoms": ["Charred skin", "Severe pain", "Blisters", "Swelling"],
+    "medicine": ["Painkillers", "Antibiotics", "IV Fluids"],
+    "cure": "Surgical treatment and burn care.",
+    "first_aid": "Cool the area, cover with sterile cloth, don’t pop blisters.",
+    "image_url": "https://example.com/images/burns.jpg",
+    "emergency": "Call for emergency help, cool burn with water, don’t remove stuck clothes, and monitor breathing."
+  }, {
+    "_id": 14,
+    "name": "Electric Shock",
+    "description": "Injury caused by electric current passing through the body.",
+    "symptoms": ["Burns", "Numbness", "Muscle spasms", "Unconsciousness"],
+    "medicine": ["Pain relievers", "Antibiotics", "Cardiac monitoring"],
+    "cure": "Wound treatment, cardiac and neurological observation.",
+    "first_aid": "Turn off power, check breathing, avoid direct contact, call emergency.",
+    "emergency": "Disconnect the power source safely, call emergency, begin CPR if the person is unresponsive.",
+    "image_url": "https://example.com/images/electric_shock.jpg"
+  },
+  {
+    "_id": 15,
+    "name": "Poisoning (Chemical)",
+    "description": "Ingestion or exposure to harmful chemicals causing toxicity.",
+    "symptoms": ["Vomiting", "Dizziness", "Confusion", "Stomach pain", "Chemical odor on breath"],
+    "medicine": ["Activated charcoal", "Specific antidotes"],
+    "cure": "Decontamination, antidotes, supportive care.",
+    "first_aid": "Call poison control, don't induce vomiting, keep the person calm.",
+    "emergency": "Call poison control or emergency services immediately. Do not induce vomiting unless advised.",
+    "image_url": "https://example.com/images/poisoning.jpg"
+  },
+  {
+    "_id": 16,
+    "name": "Hypothermia",
+    "description": "A condition in which body temperature falls below normal.",
+    "symptoms": ["Shivering", "Slurred speech", "Cold skin", "Fatigue", "Slow breathing"],
+    "medicine": ["Warm IV fluids", "Oxygen"],
+    "cure": "Gradual rewarming and supportive care.",
+    "first_aid": "Move to warm area, wrap in blankets, provide warm drinks.",
+    "emergency": "Move the person to warmth, remove wet clothing, and provide warm coverings. Call emergency services.",
+    "image_url": "https://example.com/images/hypothermia.jpg"
+  },
+  {
+    "_id": 17,
+    "name": "Hyperthermia",
+    "description": "Abnormally high body temperature due to failed thermoregulation.",
+    "symptoms": ["Red skin", "Headache", "Nausea", "Confusion", "Rapid heart rate"],
+    "medicine": ["IV fluids", "Paracetamol"],
+    "cure": "Cooling down the body, rehydration.",
+    "first_aid": "Move to a cool place, sponge with water, elevate legs.",
+    "emergency": "Cool the person immediately using fans, wet cloths, and hydration. Call for emergency medical help.",
+    "image_url": "https://example.com/images/hyperthermia.jpg"
+  },
+  {
+    "_id": 18,
+    "name": "Road Traffic Accident (Trauma)",
+    "description": "Injuries sustained from vehicle collisions.",
+    "symptoms": ["Bleeding", "Fractures", "Unconsciousness", "Disorientation"],
+    "medicine": ["Pain relievers", "IV fluids", "Antibiotics"],
+    "cure": "Trauma management, surgery, rehabilitation.",
+    "first_aid": "Don’t move person unless in danger, stop bleeding, stabilize neck.",
+    "emergency": "Call emergency services. Stop bleeding with pressure. Don't move victim unless necessary.",
+    "image_url": "https://example.com/images/rta.jpg"
+  },
+  {
+    "_id": 19,
+    "name": "Bee Sting Allergy",
+    "description": "Allergic reaction from a bee or wasp sting.",
+    "symptoms": ["Swelling", "Itching", "Difficulty breathing", "Drop in blood pressure"],
+    "medicine": ["Epinephrine", "Antihistamines"],
+    "cure": "Immediate epinephrine administration and emergency response.",
+    "first_aid": "Remove stinger, apply cold pack, use EpiPen, call for help.",
+    "emergency": "Use an epinephrine auto-injector, call emergency help, and monitor for shock.",
+    "image_url": "https://example.com/images/bee_sting.jpg"
+  },
+  {
+    "_id": 20,
+    "name": "Appendicitis",
+    "description": "Inflammation of the appendix, often requiring emergency surgery.",
+    "symptoms": ["Lower right abdominal pain", "Fever", "Nausea", "Vomiting"],
+    "medicine": ["Ceftriaxone", "Painkillers"],
+    "cure": "Surgical removal of appendix (appendectomy).",
+    "first_aid": "Do not give food or drink, avoid painkillers before diagnosis, rush to hospital.",
+    "emergency": "Rush to hospital immediately. Avoid giving anything by mouth or painkillers before diagnosis.",
+    "image_url": "https://example.com/images/appendicitis.jpg"
+  }
+]
