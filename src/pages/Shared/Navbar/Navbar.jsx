@@ -6,7 +6,9 @@ import image from "../../../assets/png-transparent-hospital-logo-clinic-health-c
 const Navbar = () => {
     const navOptions = <>
     <li><Link to="/">Home</Link></li>
+    <li><Link to="/medicine">Medicine</Link></li>
     <li><Link to="/article">Article</Link></li>
+
         
     </>
     return (

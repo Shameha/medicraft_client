@@ -6,6 +6,7 @@ import Main from "../Layout/main";
 import Home from "../pages/Home";
 import Article from "../pages/Article/Article/Article";
 import ItemDetails from "../pages/Article/Article/ItemDetails";
+import Medicine from "../pages/Medicine/Medicine/Medicine";
  
   export const router = createBrowserRouter([
     {
@@ -25,6 +26,10 @@ import ItemDetails from "../pages/Article/Article/ItemDetails";
         element: <ItemDetails></ItemDetails>,
         loader:()=>fetch('blog.json')
     },
+    {
+      path: 'medicine',
+      element: <Medicine></Medicine>
+  },
       ]
     },
   ]);

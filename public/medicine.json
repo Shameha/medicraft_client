@@ -1,375 +1,305 @@
 [
+    
     {
         "id": 1,
         "generic_name": "Paracetamol",
-        "medicines": [
-            {
-                "brand_name": "Ace",
-                "dosage_form": "Tablet",
-                "strength": "500 mg",
-                "manufacturer": "Square Pharmaceuticals Ltd.",
-                "price": "Unit Price: ৳ 1.00",
-                "indications": "Paracetamol is used to relieve mild to moderate pain and to reduce fever.",
-                "dosage": "Adults: 500 mg to 1 g every 4 to 6 hours as needed, not exceeding 4 g in 24 hours.",
-                "image": "https://www.pharmacyonline.co.uk/medications/paracetamol-500mg-100-soluble/"
-            },
-            {
-                "brand_name": "Napa",
-                "dosage_form": "Tablet",
-                "strength": "500 mg",
-                "manufacturer": "Beximco Pharmaceuticals Ltd.",
-                "price": "Unit Price: ৳ 0.90",
-                "indications": "Paracetamol is used to relieve mild to moderate pain and to reduce fever.",
-                "dosage": "Adults: 500 mg to 1 g every 4 to 6 hours as needed, not exceeding 4 g in 24 hours.",
-                "image": "https://integratedlaboratories.in/product/paracetamol-500mg-tablets-intemol-500/"
-            }
-        ]
+        "brand_name": "Ace",
+        "dosage_form": "Tablet",
+        "strength": "500 mg",
+        "manufacturer": "Square Pharmaceuticals Ltd.",
+        "price": "Unit Price: ৳ 1.00",
+        "indications": "Paracetamol is used to relieve mild to moderate pain and to reduce fever.",
+        "dosage": "Adults: 500 mg to 1 g every 4 to 6 hours as needed, not exceeding 4 g in 24 hours.",
+        "image": "https://www.pharmacyonline.co.uk/medications/paracetamol-500mg-100-soluble/"
     },
     {
         "id": 2,
-        "generic_name": "Ibuprofen",
-        "medicines": [
-            {
-                "brand_name": "Ibufen",
-                "dosage_form": "Tablet",
-                "strength": "200 mg",
-                "manufacturer": "Square Pharmaceuticals Ltd.",
-                "price": "Unit Price: ৳ 2.00",
-                "indications": "Ibuprofen is used to relieve pain from various conditions such as headache, dental pain, menstrual cramps, muscle aches, or arthritis. It is also used to reduce fever and to relieve minor aches and pain due to the common cold or flu.",
-                "dosage": "Adults: 200-400 mg every 4 to 6 hours as needed. Do not exceed 1,200 mg in 24 hours without medical advice.",
-                "image": "https://www.postmymeds.co.uk/treatments/pain-relief/ibuprofen-200mg-tablets-pack-of-16/"
-            },
-            {
-                "brand_name": "Neoprofen",
-                "dosage_form": "Tablet",
-                "strength": "400 mg",
-                "manufacturer": "Beximco Pharmaceuticals Ltd.",
-                "price": "Unit Price: ৳ 3.50",
-                "indications": "Ibuprofen is used to relieve pain from various conditions such as headache, dental pain, menstrual cramps, muscle aches, or arthritis. It is also used to reduce fever and to relieve minor aches and pain due to the common cold or flu.",
-                "dosage": "Adults: 200-400 mg every 4 to 6 hours as needed. Do not exceed 1,200 mg in 24 hours without medical advice.",
-                "image": "https://www.amazon.com/Advil-Tablets-Reliever-Refill-Two-Packs/dp/B0006SW71G"
-            }
-        ]
+        "generic_name": "Paracetamol",
+        "brand_name": "Napa",
+        "dosage_form": "Tablet",
+        "strength": "500 mg",
+        "manufacturer": "Beximco Pharmaceuticals Ltd.",
+        "price": "Unit Price: ৳ 0.90",
+        "indications": "Paracetamol is used to relieve mild to moderate pain and to reduce fever.",
+        "dosage": "Adults: 500 mg to 1 g every 4 to 6 hours as needed, not exceeding 4 g in 24 hours.",
+        "image": "https://integratedlaboratories.in/product/paracetamol-500mg-tablets-intemol-500/"
     },
     {
         "id": 3,
-        "generic_name": "Ciprofloxacin",
-        "medicines": [
-            {
-                "brand_name": "Ciprocin",
-                "dosage_form": "Tablet",
-                "strength": "500 mg",
-                "manufacturer": "Square Pharmaceuticals Ltd.",
-                "price": "Unit Price: ৳ 12.00",
-                "indications": "Ciprofloxacin is used to treat a variety of bacterial infections. It belongs to a class of drugs known as quinolone antibiotics. It works by stopping the growth of bacteria.",
-                "dosage": "Adults: 500 mg every 12 hours for 7 to 14 days, depending on the severity and type of infection.",
-                "image": "https://amponsah-efah.com/products/tablets/ciprofloxacin-tablets"
-            },
-            {
-                "brand_name": "Cipro",
-                "dosage_form": "Tablet",
-                "strength": "500 mg",
-                "manufacturer": "Beximco Pharmaceuticals Ltd.",
-                "price": "Unit Price: ৳ 11.50",
-                "indications": "Ciprofloxacin is used to treat a variety of bacterial infections. It belongs to a class of drugs known as quinolone antibiotics. It works by stopping the growth of bacteria.",
-                "dosage": "Adults: 500 mg every 12 hours for 7 to 14 days, depending on the severity and type of infection.",
-                "image": "https://amponsah-efah.com/products/tablets/ciprofloxacin-tablets"
-            }
-        ]
+        "generic_name": "Ibuprofen",
+        "brand_name": "Ibufen",
+        "dosage_form": "Tablet",
+        "strength": "200 mg",
+        "manufacturer": "Square Pharmaceuticals Ltd.",
+        "price": "Unit Price: ৳ 2.00",
+        "indications": "Ibuprofen is used to relieve pain from various conditions such as headache, dental pain, menstrual cramps, muscle aches, or arthritis. It is also used to reduce fever and to relieve minor aches and pain due to the common cold or flu.",
+        "dosage": "Adults: 200-400 mg every 4 to 6 hours as needed. Do not exceed 1,200 mg in 24 hours without medical advice.",
+        "image": "https://www.postmymeds.co.uk/treatments/pain-relief/ibuprofen-200mg-tablets-pack-of-16/"
     },
     {
         "id": 4,
-        "generic_name": "Azithromycin",
-        "medicines": [
-            {
-                "brand_name": "Azithro",
-                "dosage_form": "Capsule",
-                "strength": "250 mg",
-                "manufacturer": "Square Pharmaceuticals Ltd.",
-                "price": "Unit Price: ৳ 25.00",
-                "indications": "Azithromycin is used to treat a wide variety of bacterial infections. It is a macrolide-type antibiotic. It works by stopping the growth of bacteria.",
-                "dosage": "Adults: 500 mg once daily for 3 days or 500 mg on day 1 followed by 250 mg once daily on days 2 through 5.",
-                "image": "https://assetpharmacy.com/product/daizix-azithromycin-250mg-tablets-6-tablets/"
-            },
-            {
-                "brand_name": "Zithrin",
-                "dosage_form": "Capsule",
-                "strength": "250 mg",
-                "manufacturer": "Beximco Pharmaceuticals Ltd.",
-                "price": "Unit Price: ৳ 24.50",
-                "indications": "Azithromycin is used to treat a wide variety of bacterial infections. It is a macrolide-type antibiotic. It works by stopping the growth of bacteria.",
-                "dosage": "Adults: 500 mg once daily for 3 days or 500 mg on day 1 followed by 250 mg once daily on days 2 through 5.",
-                "image": "https://assetpharmacy.com/product/daizix-azithromycin-250mg-tablets-6-tablets/"
-            }
-        ]
+        "generic_name": "Ibuprofen",
+        "brand_name": "Neoprofen",
+        "dosage_form": "Tablet",
+        "strength": "400 mg",
+        "manufacturer": "Beximco Pharmaceuticals Ltd.",
+        "price": "Unit Price: ৳ 3.50",
+        "indications": "Ibuprofen is used to relieve pain from various conditions such as headache, dental pain, menstrual cramps, muscle aches, or arthritis. It is also used to reduce fever and to relieve minor aches and pain due to the common cold or flu.",
+        "dosage": "Adults: 200-400 mg every 4 to 6 hours as needed. Do not exceed 1,200 mg in 24 hours without medical advice.",
+        "image": "https://www.amazon.com/Advil-Tablets-Reliever-Refill-Two-Packs/dp/B0006SW71G"
     },
     {
         "id": 5,
-        "generic_name": "Esomeprazole",
-        "medicines": [
-            {
-                "brand_name": "Alton",
-                "dosage_form": "Tablet",
-                "strength": "20 mg",
-                "manufacturer": "General Pharmaceuticals Ltd.",
-                "price": "Unit Price: ৳ 7.00",
-                "indications": "Esomeprazole is used to treat gastroesophageal reflux disease (GERD), ulcers, and other conditions involving excessive stomach acid.",
-                "dosage": "Adults: 20 mg once daily for 4 to 8 weeks.",
-                "image": "https://medex.com.bd/img/generic/1600177348.jpg"
-            },
-            {
-                "brand_name": "Alton",
-                "dosage_form": "Injection",
-                "strength": "40 mg/vial",
-                "manufacturer": "General Pharmaceuticals Ltd.",
-                "price": "Unit Price: ৳ 100.00",
-                "indications": "Esomeprazole injection is used when patients cannot take the medication orally.",
-                "dosage": "Adults: 20 to 40 mg once daily by intravenous injection over at least 3 minutes.",
-                "image": "https://medex.com.bd/img/generic/1600177348.jpg"
-            }
-        ]
+        "generic_name": "Ciprofloxacin",
+        "brand_name": "Ciprocin",
+        "dosage_form": "Tablet",
+        "strength": "500 mg",
+        "manufacturer": "Square Pharmaceuticals Ltd.",
+        "price": "Unit Price: ৳ 12.00",
+        "indications": "Ciprofloxacin is used to treat a variety of bacterial infections. It belongs to a class of drugs known as quinolone antibiotics. It works by stopping the growth of bacteria.",
+        "dosage": "Adults: 500 mg every 12 hours for 7 to 14 days, depending on the severity and type of infection.",
+        "image": "https://amponsah-efah.com/products/tablets/ciprofloxacin-tablets"
     },
     {
         "id": 6,
-        "generic_name": "Losartan Potassium",
-        "medicines": [
-            {
-                "brand_name": "Anreb",
-                "dosage_form": "Tablet",
-                "strength": "50 mg",
-                "manufacturer": "General Pharmaceuticals Ltd.",
-                "price": "Unit Price: ৳ 10.00",
-                "indications": "Losartan is used to treat high blood pressure (hypertension) and to help protect the kidneys from damage due to diabetes.",
-                "dosage": "Adults: 50 mg once daily.",
-                "image": "https://medex.com.bd/img/generic/1600177348.jpg"
-            },
-            {
-                "brand_name": "Anreb Plus",
-                "dosage_form": "Tablet",
-                "strength": "50 mg + 12.5 mg",
-                "manufacturer": "General Pharmaceuticals Ltd.",
-                "price": "Unit Price: ৳ 9.00",
-                "indications": "Combination of Losartan and Hydrochlorothiazide is used to treat high blood pressure.",
-                "dosage": "Adults: 1 tablet once daily.",
-                "image": "https://medex.com.bd/img/generic/1600177348.jpg"
-            }
-        ]
+        "generic_name": "Ciprofloxacin",
+        "brand_name": "Cipro",
+        "dosage_form": "Tablet",
+        "strength": "500 mg",
+        "manufacturer": "Beximco Pharmaceuticals Ltd.",
+        "price": "Unit Price: ৳ 11.50",
+        "indications": "Ciprofloxacin is used to treat a variety of bacterial infections. It belongs to a class of drugs known as quinolone antibiotics. It works by stopping the growth of bacteria.",
+        "dosage": "Adults: 500 mg every 12 hours for 7 to 14 days, depending on the severity and type of infection.",
+        "image": "https://amponsah-efah.com/products/tablets/ciprofloxacin-tablets"
     },
     {
         "id": 7,
-        "generic_name": "Apixaban",
-        "medicines": [
-            {
-                "brand_name": "Antixa",
-                "dosage_form": "Tablet",
-                "strength": "5 mg",
-                "manufacturer": "General Pharmaceuticals Ltd.",
-                "price": "Unit Price: ৳ 20.00",
-                "indications": "Apixaban is used to lower the risk of stroke and blood clots in people with atrial fibrillation.",
-                "dosage": "Adults: 5 mg taken orally twice daily.",
-                "image": "https://medex.com.bd/img/generic/1600177348.jpg"
-            },
-            {
-                "brand_name": "Antixa",
-                "dosage_form": "Tablet",
-                "strength": "2.5 mg",
-                "manufacturer": "General Pharmaceuticals Ltd.",
-                "price": "Unit Price: ৳ 10.00",
-                "indications": "Lower dose of Apixaban is used for patients with certain conditions like reduced kidney function.",
-                "dosage": "Adults: 2.5 mg taken orally twice daily.",
-                "image": "https://medex.com.bd/img/generic/1600177348.jpg"
-            }
-        ]
+        "generic_name": "Azithromycin",
+        "brand_name": "Azithro",
+        "dosage_form": "Capsule",
+        "strength": "250 mg",
+        "manufacturer": "Square Pharmaceuticals Ltd.",
+        "price": "Unit Price: ৳ 25.00",
+        "indications": "Azithromycin is used to treat a wide variety of bacterial infections. It is a macrolide-type antibiotic. It works by stopping the growth of bacteria.",
+        "dosage": "Adults: 500 mg once daily for 3 days or 500 mg on day 1 followed by 250 mg once daily on days 2 through 5.",
+        "image": "https://assetpharmacy.com/product/daizix-azithromycin-250mg-tablets-6-tablets/"
     },
     {
         "id": 8,
-        "generic_name": "Aripiprazole",
-        "medicines": [
-            {
-                "brand_name": "Ariprazole",
-                "dosage_form": "Tablet",
-                "strength": "10 mg",
-                "manufacturer": "General Pharmaceuticals Ltd.",
-                "price": "Unit Price: ৳ 5.70",
-                "indications": "Aripiprazole is used to treat certain mental/mood disorders such as bipolar disorder, schizophrenia, Tourette's disorder, and irritability associated with autistic disorder.",
-                "dosage": "Adults: 10 to 15 mg once daily.",
-                "image": "https://medex.com.bd/img/generic/1600177348.jpg"
-            },
-            {
-                "brand_name": "Ariprazole",
-                "dosage_form": "Tablet",
-                "strength": "5 mg",
-                "manufacturer": "General Pharmaceuticals Ltd.",
-                "price": "Unit Price: ৳ 3.52",
-                "indications": "Lower dose of Aripiprazole is used for patients initiating therapy or with certain conditions.",
-                "dosage": "Adults: 5 mg once daily.",
-                "image": "https://medex.com.bd/img/generic/1600177348.jpg"
-            }
-        ]
+        "generic_name": "Azithromycin",
+        "brand_name": "Zithrin",
+        "dosage_form": "Capsule",
+        "strength": "250 mg",
+        "manufacturer": "Beximco Pharmaceuticals Ltd.",
+        "price": "Unit Price: ৳ 24.50",
+        "indications": "Azithromycin is used to treat a wide variety of bacterial infections. It is a macrolide-type antibiotic. It works by stopping the growth of bacteria.",
+        "dosage": "Adults: 500 mg once daily for 3 days or 500 mg on day 1 followed by 250 mg once daily on days 2 through 5.",
+        "image": "https://assetpharmacy.com/product/daizix-azithromycin-250mg-tablets-6-tablets/"
     },
     {
         "id": 9,
-        "generic_name": "Sacubitril + Valsartan",
-        "medicines": [
-            {
-                "brand_name": "Arnigen",
-                "dosage_form": "Tablet",
-                "strength": "24 mg + 26 mg",
-                "manufacturer": "General Pharmaceuticals Ltd.",
-                "price": "Unit Price: ৳ 45.00",
-                "indications": "Combination of Sacubitril and Valsartan is used to treat heart failure.",
-                "dosage": "Adults: 49 mg/51 mg twice daily.",
-                "image": "https://medex.com.bd/img/generic/1600177348.jpg"
-            },
-            {
-                "brand_name": "Arnigen",
-                "dosage_form": "Tablet",
-                "strength": "97 mg + 103 mg",
-                "manufacturer": "General Pharmaceuticals Ltd.",
-                "price": "Unit Price: ৳ 120.00",
-                "indications": "Higher strength for patients requiring increased dosage.",
-                "dosage": "Adults: 97 mg/103 mg twice daily.",
-                "image": "https://medex.com.bd/img/generic/1600177348.jpg"
-            }
-        ]
+        "generic_name": "Esomeprazole",
+        "brand_name": "Alton",
+        "dosage_form": "Tablet",
+        "strength": "20 mg",
+        "manufacturer": "General Pharmaceuticals Ltd.",
+        "price": "Unit Price: ৳ 7.00",
+        "indications": "Esomeprazole is used to treat gastroesophageal reflux disease (GERD), ulcers, and other conditions involving excessive stomach acid.",
+        "dosage": "Adults: 20 mg once daily for 4 to 8 weeks.",
+        "image": "https://medex.com.bd/img/generic/1600177348.jpg"
     },
     {
         "id": 10,
-        "generic_name": "Cefixime",
-        "medicines": [
-            {
-                "brand_name": "Adexim",
-                "dosage_form": "Capsule",
-                "strength": "200 mg",
-                "manufacturer": "Supreme Pharmaceutical Ltd.",
-                "price": "Unit Price: ৳ 30.00",
-                "indications": "Cefixime is used to treat various bacterial infections, including bronchitis, gonorrhea, and infections of the ears, throat, tonsils, and urinary tract.",
-                "dosage": "Adults: 200-400 mg once daily.",
-                "image": "https://medex.com.bd/img/generic/1600177348.jpg"
-            },
-            {
-                "brand_name": "Aegis",
-                "dosage_form": "Capsule",
-                "strength": "200 mg",
-                "manufacturer": "C2C Pharma Ltd.",
-                "price": "Unit Price: ৳ 35.00",
-                "indications": "Cefixime is used to treat various bacterial infections, including bronchitis, gonorrhea, and infections of the ears, throat, tonsils, and urinary tract.",
-                "dosage": "Adults: 200-400 mg once daily.",
-                "image": "https://medex.com.bd/img/generic/1600177348.jpg"
-            }
-        ]
+        "generic_name": "Esomeprazole",
+        "brand_name": "Alton",
+        "dosage_form": "Injection",
+        "strength": "40 mg/vial",
+        "manufacturer": "General Pharmaceuticals Ltd.",
+        "price": "Unit Price: ৳ 100.00",
+        "indications": "Esomeprazole injection is used when patients cannot take the medication orally.",
+        "dosage": "Adults: 20 to 40 mg once daily by intravenous injection over at least 3 minutes.",
+        "image": "https://medex.com.bd/img/generic/1600177348.jpg"
     },
     {
         "id": 11,
-        "generic_name": "Flucloxacillin Sodium",
-        "medicines": [
-            {
-                "brand_name": "Adflox",
-                "dosage_form": "Capsule",
-                "strength": "500 mg",
-                "manufacturer": "Team Pharmaceuticals Ltd.",
-                "price": "Unit Price: ৳ 10.50",
-                "indications": "Flucloxacillin is used to treat bacterial infections, including skin and soft tissue infections, respiratory tract infections, and bone infections.",
-                "dosage": "Adults: 250-500 mg every 6 hours.",
-                "image": "https://medex.com.bd/img/generic/1600177348.jpg"
-            }
-        ]
+        "generic_name": "Losartan Potassium",
+        "brand_name": "Anreb",
+        "dosage_form": "Tablet",
+        "strength": "50 mg",
+        "manufacturer": "General Pharmaceuticals Ltd.",
+        "price": "Unit Price: ৳ 10.00",
+        "indications": "Losartan is used to treat high blood pressure (hypertension) and to help protect the kidneys from damage due to diabetes.",
+        "dosage": "Adults: 50 mg once daily.",
+        "image": "https://medex.com.bd/img/generic/1600177348.jpg"
     },
     {
         "id": 12,
-        "generic_name": "Cefdinir",
-        "medicines": [
-            {
-                "brand_name": "Adinir",
-                "dosage_form": "Capsule",
-                "strength": "300 mg",
-                "manufacturer": "ACME Laboratories Ltd.",
-                "price": "Unit Price: ৳ 45.25",
-                "indications": "Cefdinir is used to treat a wide variety of bacterial infections, including respiratory tract infections, skin infections, and ear infections.",
-                "dosage": "Adults: 300 mg every 12 hours or 600 mg once daily.",
-                "image": "https://medex.com.bd/img/generic/1600177348.jpg"
-            }
-        ]
+        "generic_name": "Losartan Potassium",
+        "brand_name": "Anreb Plus",
+        "dosage_form": "Tablet",
+        "strength": "50 mg + 12.5 mg",
+        "manufacturer": "General Pharmaceuticals Ltd.",
+        "price": "Unit Price: ৳ 9.00",
+        "indications": "Combination of Losartan and Hydrochlorothiazide is used to treat high blood pressure.",
+        "dosage": "Adults: 1 tablet once daily.",
+        "image": "https://medex.com.bd/img/generic/1600177348.jpg"
+    
     },
-    {
-        "id": 13,
-        "generic_name": "Orlistat",
-        "medicines": [
-            {
-                "brand_name": "Adiponil",
-                "dosage_form": "Capsule",
-                "strength": "120 mg",
-                "manufacturer": "Incepta Pharmaceuticals Ltd.",
-                "price": "Unit Price: ৳ 40.00",
-                "indications": "Orlistat is used to aid in weight loss or to help reduce the risk of regaining weight already lost. It works by blocking the absorption of some of the fat from the foods you eat.",
-                "dosage": "Adults: 120 mg three times daily with each main meal containing fat.",
-                "image": "https://medex.com.bd/img/generic/1600177348.jpg"
-            }
-        ]
-    },
-    {
-        "id": 14,
-        "generic_name": "Ferric Maltol",
-        "medicines": [
-            {
-                "brand_name": "Adiron",
-                "dosage_form": "Capsule",
-                "strength": "30 mg",
-                "manufacturer": "General Pharmaceuticals Ltd.",
-                "price": "Unit Price: ৳ 11.00",
-                "indications": "Ferric maltol is used to treat iron deficiency anemia in adults.",
-                "dosage": "Adults: 30 mg twice daily.",
-                "image": "https://medex.com.bd/img/generic/1600177348.jpg"
-            }
-        ]
-    },
-    {
-        "id": 15,
-        "generic_name": "Azithromycin Dihydrate",
-        "medicines": [
-            {
-                "brand_name": "Adiz",
-                "dosage_form": "Capsule",
-                "strength": "250 mg",
-                "manufacturer": "Euro Pharma Ltd.",
-                "price": "Unit Price: ৳ 25.00",
-                "indications": "Azithromycin is used to treat a wide variety of bacterial infections, including respiratory infections, skin infections, ear infections, and sexually transmitted diseases.",
-                "dosage": "Adults: 500 mg on the first day, followed by 250 mg once daily for the next 4 days.",
-                "image": "https://medex.com.bd/img/generic/1600177348.jpg"
-            }
-        ]
-    },
-    {
-        "id": 16,
-        "generic_name": "Amoxicillin Trihydrate",
-        "medicines": [
-            {
-                "brand_name": "Admox DS",
-                "dosage_form": "Capsule",
-                "strength": "500 mg",
-                "manufacturer": "Team Pharmaceuticals Ltd.",
-                "price": "Unit Price: ৳ 7.50",
-                "indications": "Amoxicillin is used to treat a wide variety of bacterial infections, including infections of the ear, nose, throat, skin, and urinary tract.",
-                "dosage": "Adults: 500 mg every 8 hours or 875 mg every 12 hours.",
-                "image": "https://medex.com.bd/img/generic/1600177348.jpg"
-            }
-        ]
-    },
-    {
-        "id": 17,
-        "generic_name": "Cefadroxil Monohydrate",
-        "medicines": [
-            {
-                "brand_name": "Adocil",
-                "dosage_form": "Capsule",
-                "strength": "500 mg",
-                "manufacturer": "Kemiko Pharmaceuticals Ltd.",
-                "price": "Unit Price: ৳ 12.04",
-                "indications": "Cefadroxil is used to treat various bacterial infections, including skin infections and urinary tract infections.",
-                "dosage": "Adults: 500 mg to 1 g every 12 hours.",
-                "image": "https://medex.com.bd/img/generic/1600177348.jpg"
-            }
-        ]
-    }
+      {
+            "id": 13,
+            "generic_name": "Aripiprazole",
+            "brand_name": "Ariprazole",
+            "dosage_form": "Tablet",
+            "strength": "10 mg",
+            "manufacturer": "General Pharmaceuticals Ltd.",
+            "price": "Unit Price: ৳ 5.70",
+            "indications": "Aripiprazole is used to treat certain mental/mood disorders such as bipolar disorder, schizophrenia, Tourette's disorder, and irritability associated with autistic disorder.",
+            "dosage": "Adults: 10 to 15 mg once daily.",
+            "image": "https://medex.com.bd/img/generic/1600177348.jpg"
+        },
+        {
+            "id": 14,
+            "generic_name": "Aripiprazole",
+            "brand_name": "Ariprazole",
+            "dosage_form": "Tablet",
+            "strength": "5 mg",
+            "manufacturer": "General Pharmaceuticals Ltd.",
+            "price": "Unit Price: ৳ 3.52",
+            "indications": "Lower dose of Aripiprazole is used for patients initiating therapy or with certain conditions.",
+            "dosage": "Adults: 5 mg once daily.",
+            "image": "https://medex.com.bd/img/generic/1600177348.jpg"
+        },
+        {
+            "id": 3,
+            "generic_name": "Sacubitril + Valsartan",
+            "brand_name": "Arnigen",
+            "dosage_form": "Tablet",
+            "strength": "24 mg + 26 mg",
+            "manufacturer": "General Pharmaceuticals Ltd.",
+            "price": "Unit Price: ৳ 45.00",
+            "indications": "Combination of Sacubitril and Valsartan is used to treat heart failure.",
+            "dosage": "Adults: 49 mg/51 mg twice daily.",
+            "image": "https://medex.com.bd/img/generic/1600177348.jpg"
+        },
+        {
+            "id": 16,
+            "generic_name": "Sacubitril + Valsartan",
+            "brand_name": "Arnigen",
+            "dosage_form": "Tablet",
+            "strength": "97 mg + 103 mg",
+            "manufacturer": "General Pharmaceuticals Ltd.",
+            "price": "Unit Price: ৳ 120.00",
+            "indications": "Higher strength for patients requiring increased dosage.",
+            "dosage": "Adults: 97 mg/103 mg twice daily.",
+            "image": "https://medex.com.bd/img/generic/1600177348.jpg"
+        },
+        {
+            "id": 17,
+            "generic_name": "Cefixime",
+            "brand_name": "Adexim",
+            "dosage_form": "Capsule",
+            "strength": "200 mg",
+            "manufacturer": "Supreme Pharmaceutical Ltd.",
+            "price": "Unit Price: ৳ 30.00",
+            "indications": "Cefixime is used to treat various bacterial infections, including bronchitis, gonorrhea, and infections of the ears, throat, tonsils, and urinary tract.",
+            "dosage": "Adults: 200-400 mg once daily.",
+            "image": "https://medex.com.bd/img/generic/1600177348.jpg"
+        },
+        {
+            "id": 18,
+            "generic_name": "Cefixime",
+            "brand_name": "Aegis",
+            "dosage_form": "Capsule",
+            "strength": "200 mg",
+            "manufacturer": "C2C Pharma Ltd.",
+            "price": "Unit Price: ৳ 35.00",
+            "indications": "Cefixime is used to treat various bacterial infections, including bronchitis, gonorrhea, and infections of the ears, throat, tonsils, and urinary tract.",
+            "dosage": "Adults: 200-400 mg once daily.",
+            "image": "https://medex.com.bd/img/generic/1600177348.jpg"
+        },
+        {
+            "id": 19,
+            "generic_name": "Flucloxacillin Sodium",
+            "brand_name": "Adflox",
+            "dosage_form": "Capsule",
+            "strength": "500 mg",
+            "manufacturer": "Team Pharmaceuticals Ltd.",
+            "price": "Unit Price: ৳ 10.50",
+            "indications": "Flucloxacillin is used to treat bacterial infections, including skin and soft tissue infections, respiratory tract infections, and bone infections.",
+            "dosage": "Adults: 250-500 mg every 6 hours.",
+            "image": "https://medex.com.bd/img/generic/1600177348.jpg"
+        },
+        {
+            "id": 20,
+            "generic_name": "Cefdinir",
+            "brand_name": "Adinir",
+            "dosage_form": "Capsule",
+            "strength": "300 mg",
+            "manufacturer": "ACME Laboratories Ltd.",
+            "price": "Unit Price: ৳ 45.25",
+            "indications": "Cefdinir is used to treat a wide variety of bacterial infections, including respiratory tract infections, skin infections, and ear infections.",
+            "dosage": "Adults: 300 mg every 12 hours or 600 mg once daily.",
+            "image": "https://medex.com.bd/img/generic/1600177348.jpg"
+        },
+        {
+            "id": 21,
+            "generic_name": "Orlistat",
+            "brand_name": "Adiponil",
+            "dosage_form": "Capsule",
+            "strength": "120 mg",
+            "manufacturer": "Incepta Pharmaceuticals Ltd.",
+            "price": "Unit Price: ৳ 40.00",
+            "indications": "Orlistat is used to aid in weight loss or to help reduce the risk of regaining weight already lost. It works by blocking the absorption of some of the fat from the foods you eat.",
+            "dosage": "Adults: 120 mg three times daily with each main meal containing fat.",
+            "image": "https://medex.com.bd/img/generic/1600177348.jpg"
+        },
+        {
+            "id": 22,
+            "generic_name": "Ferric Maltol",
+            "brand_name": "Adiron",
+            "dosage_form": "Capsule",
+            "strength": "30 mg",
+            "manufacturer": "General Pharmaceuticals Ltd.",
+            "price": "Unit Price: ৳ 11.00",
+            "indications": "Ferric maltol is used to treat iron deficiency anemia in adults.",
+            "dosage": "Adults: 30 mg twice daily.",
+            "image": "https://medex.com.bd/img/generic/1600177348.jpg"
+        },
+        {
+            "id": 23,
+            "generic_name": "Azithromycin Dihydrate",
+            "brand_name": "Adiz",
+            "dosage_form": "Capsule",
+            "strength": "250 mg",
+            "manufacturer": "Euro Pharma Ltd.",
+            "price": "Unit Price: ৳ 25.00",
+            "indications": "Azithromycin is used to treat a wide variety of bacterial infections, including respiratory infections, skin infections, ear infections, and sexually transmitted diseases.",
+            "dosage": "Adults: 500 mg on the first day, followed by 250 mg once daily for the next 4 days.",
+            "image": "https://medex.com.bd/img/generic/1600177348.jpg"
+        },
+        {
+            "id": 24,
+            "generic_name": "Amoxicillin Trihydrate",
+            "brand_name": "Admox DS",
+            "dosage_form": "Capsule",
+            "strength": "500 mg",
+            "manufacturer": "Team Pharmaceuticals Ltd.",
+            "price": "Unit Price: ৳ 7.50",
+            "indications": "Amoxicillin is used to treat a wide variety of bacterial infections, including infections of the ear, nose, throat, skin, and urinary tract.",
+            "dosage": "Adults: 500 mg every 8 hours or 875 mg every 12 hours.",
+            "image": "https://medex.com.bd/img/generic/1600177348.jpg"
+        },
+        {
+            "id": 25,
+            "generic_name": "Cefadroxil Monohydrate",
+            "brand_name": "Adocil",
+            "dosage_form": "Capsule",
+            "strength": "500 mg",
+            "manufacturer": "Kemiko Pharmaceuticals Ltd.",
+            "price": "Unit Price: ৳ 12.04",
+            "indications": "Cefadroxil is used to treat various bacterial infections, including skin infections and urinary tract infections.",
+            "dosage": "Adults: 500 mg to 1 g every 12 hours.",
+            "image": "https://medex.com.bd/img/generic/1600177348.jpg"
+        }
 ]
  
