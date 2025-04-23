@@ -7,6 +7,7 @@ import Home from "../pages/Home";
 import Article from "../pages/Article/Article/Article";
 import ItemDetails from "../pages/Article/Article/ItemDetails";
 import Medicine from "../pages/Medicine/Medicine/Medicine";
+import MedicineDetails from "../pages/Medicine/Medicine/MedicineDetails";
  
   export const router = createBrowserRouter([
     {
@@ -30,6 +31,11 @@ import Medicine from "../pages/Medicine/Medicine/Medicine";
       path: 'medicine',
       element: <Medicine></Medicine>
   },
+  {
+    path: '/medi/:id',
+    element: <MedicineDetails></MedicineDetails>,
+    loader:()=>fetch('../medicine.json')
+},
       ]
     },
   ]);

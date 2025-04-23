@@ -33,7 +33,7 @@ const Medicine = () => {
   </div>
 </fieldset>
 
-     <div className='grid md:grid-cols-3'>
+     <div className='grid items-center  md:grid-cols-3'>
         {
             menu.map(items =><MedicineItems
                 key={items._id}
