@@ -8,9 +8,10 @@
         "strength": "500 mg",
         "manufacturer": "Square Pharmaceuticals Ltd.",
         "price": "Unit Price: ৳ 1.00",
-        "indications": "Paracetamol is used to relieve mild to moderate pain and to reduce fever.",
+        "indications": "Paracetamol is used to relieve mild to moderate pain and to reduce fever.Paracetamol is commonly used to alleviate mild to moderate pain including headaches, toothaches, muscle aches, menstrual cramps, and arthritis. It is highly effective in reducing fever caused by infections such as colds or flu. It is often used when NSAIDs are contraindicated due to gastrointestinal issues. It can be combined with other medications for enhanced pain relief in cases such as post-operative pain or chronic pain syndromes. Paracetamol is widely used in both adult and pediatric populations due to its safety profile. It is considered a first-line therapy for pain and fever management in many clinical settings.",
         "dosage": "Adults: 500 mg to 1 g every 4 to 6 hours as needed, not exceeding 4 g in 24 hours.",
-        "image": "https://i.ibb.co.com/0pMCH73w/ace-500-mg-tablet-89113522054-i1-fzx-IJd-Bkjl-WAq-BSdt-C3-T.jpg"
+        "image": "https://i.ibb.co.com/0pMCH73w/ace-500-mg-tablet-89113522054-i1-fzx-IJd-Bkjl-WAq-BSdt-C3-T.jpg",
+       "side_effects": "Nausea, allergic skin reactions, liver damage (high dose), low blood pressure (rare), blood disorders (rare), breathing issues in asthmatics."
     },
     {
         "id": 2,
@@ -20,9 +21,10 @@
         "strength": "500 mg",
         "manufacturer": "Beximco Pharmaceuticals Ltd.",
         "price": "Unit Price: ৳ 0.90",
-        "indications": "Paracetamol is used to relieve mild to moderate pain and to reduce fever.",
+        "indications": "Paracetamol is used to relieve mild to moderate pain and to reduce fever.Paracetamol is commonly used to alleviate mild to moderate pain including headaches, toothaches, muscle aches, menstrual cramps, and arthritis. It is highly effective in reducing fever caused by infections such as colds or flu. It is often used when NSAIDs are contraindicated due to gastrointestinal issues. It can be combined with other medications for enhanced pain relief in cases such as post-operative pain or chronic pain syndromes. Paracetamol is widely used in both adult and pediatric populations due to its safety profile. It is considered a first-line therapy for pain and fever management in many clinical settings.",
         "dosage": "Adults: 500 mg to 1 g every 4 to 6 hours as needed, not exceeding 4 g in 24 hours.",
-        "image": "https://i.ibb.co.com/kj4MtRy/IMG-20231023-WA0137.webp"
+        "image": "https://i.ibb.co.com/kj4MtRy/IMG-20231023-WA0137.webp",
+            "side_effects": "Rash, elevated liver enzymes, hepatotoxicity, rare allergic reactions, GI upset, methemoglobinemia (very rare)."
     },
     {
         "id": 3,
@@ -32,9 +34,10 @@
         "strength": "200 mg",
         "manufacturer": "Square Pharmaceuticals Ltd.",
         "price": "Unit Price: ৳ 2.00",
-        "indications": "Ibuprofen is used to relieve pain from various conditions such as headache, dental pain, menstrual cramps, muscle aches, or arthritis. It is also used to reduce fever and to relieve minor aches and pain due to the common cold or flu.",
+        "indications": "Ibuprofen is used to relieve pain from various conditions such as headache, dental pain, menstrual cramps, muscle aches, or arthritis. It is also used to reduce fever and to relieve minor aches and pain due to the common cold or flu.Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) used to treat a wide range of painful conditions including headaches, migraines, toothaches, back pain, muscle sprains, and menstrual cramps. It is especially useful in managing inflammation and swelling in arthritis and other musculoskeletal conditions. Ibuprofen also helps in reducing fever and is often used in viral or bacterial infections as supportive therapy. It may be used after surgeries to manage inflammation and discomfort. It's commonly used in both acute and chronic pain scenarios. Long-term use in conditions like rheumatoid arthritis can improve mobility and reduce stiffness.",
         "dosage": "Adults: 200-400 mg every 4 to 6 hours as needed. Do not exceed 1,200 mg in 24 hours without medical advice.",
-        "image": "https://i.ibb.co.com/xtGQDNCJ/ibuprofen-tablets-ip-200-mg.jpg"
+        "image": "https://i.ibb.co.com/xtGQDNCJ/ibuprofen-tablets-ip-200-mg.jpg",
+         "side_effects": "Stomach pain, nausea, ulcers, dizziness, kidney dysfunction, increased blood pressure."
     },
     {
         "id": 4,
@@ -46,7 +49,8 @@
         "price": "Unit Price: ৳ 3.50",
         "indications": "Ibuprofen is used to relieve pain from various conditions such as headache, dental pain, menstrual cramps, muscle aches, or arthritis. It is also used to reduce fever and to relieve minor aches and pain due to the common cold or flu.",
         "dosage": "Adults: 200-400 mg every 4 to 6 hours as needed. Do not exceed 1,200 mg in 24 hours without medical advice.",
-        "image": "https://i.ibb.co.com/jkHnQQqz/neoprofen-200-mg-tablets-20-s.jpg"
+        "image": "https://i.ibb.co.com/jkHnQQqz/neoprofen-200-mg-tablets-20-s.jpg",
+        "side_effects": "Heartburn, GI ulcers, headache, tinnitus, liver/kidney impairment, allergic reactions."
     },
     {
         "id": 5,
@@ -58,7 +62,8 @@
         "price": "Unit Price: ৳ 12.00",
         "indications": "Ciprofloxacin is used to treat a variety of bacterial infections. It belongs to a class of drugs known as quinolone antibiotics. It works by stopping the growth of bacteria.",
         "dosage": "Adults: 500 mg every 12 hours for 7 to 14 days, depending on the severity and type of infection.",
-        "image": "https://i.ibb.co.com/7dtBGj2p/Ciprocin-500.jpg"
+        "image": "https://i.ibb.co.com/7dtBGj2p/Ciprocin-500.jpg",
+          "side_effects": "Nausea, diarrhea, tendonitis, sun sensitivity, dizziness, QT prolongation, rare seizures."
     },
     {
         "id": 6,
@@ -68,9 +73,10 @@
         "strength": "500 mg",
         "manufacturer": "Beximco Pharmaceuticals Ltd.",
         "price": "Unit Price: ৳ 11.50",
-        "indications": "Ciprofloxacin is used to treat a variety of bacterial infections. It belongs to a class of drugs known as quinolone antibiotics. It works by stopping the growth of bacteria.",
+        "indications": "Ciprofloxacin is used to treat a variety of bacterial infections. It belongs to a class of drugs known as quinolone antibiotics. It works by stopping the growth of bacteria.Ciprofloxacin is a broad-spectrum fluoroquinolone antibiotic used to treat a variety of bacterial infections. It is effective against urinary tract infections (UTIs), respiratory tract infections such as bronchitis and pneumonia, gastrointestinal infections like traveler’s diarrhea, and skin or soft tissue infections. It is also indicated for bone and joint infections, typhoid fever, and certain types of sexually transmitted infections. In serious or resistant cases, ciprofloxacin is chosen for its potency and wide coverage. It is also used as a prophylactic agent in cases of anthrax exposure and hospital-acquired infections.",
         "dosage": "Adults: 500 mg every 12 hours for 7 to 14 days, depending on the severity and type of infection.",
-        "image": "https://i.ibb.co.com/nqKr4sgg/811d094b-7e21-4b62-9f80-981b0aa1c1f2.jpg"
+        "image": "https://i.ibb.co.com/nqKr4sgg/811d094b-7e21-4b62-9f80-981b0aa1c1f2.jpg",
+        "side_effects": "Abdominal pain, skin rash, joint pain, liver issues, sleep disturbances, C. difficile infection risk."
     },
     {
         "id": 7,
@@ -82,7 +88,8 @@
         "price": "Unit Price: ৳ 25.00",
         "indications": "Azithromycin is used to treat a wide variety of bacterial infections. It is a macrolide-type antibiotic. It works by stopping the growth of bacteria.",
         "dosage": "Adults: 500 mg once daily for 3 days or 500 mg on day 1 followed by 250 mg once daily on days 2 through 5.",
-        "image": "https://i.ibb.co.com/kgkYRPzy/1ed3c10ae33a8f642e735ae140cd021b.webp"
+        "image": "https://i.ibb.co.com/kgkYRPzy/1ed3c10ae33a8f642e735ae140cd021b.webp",
+            "side_effects": "Diarrhea, cramping, liver enzyme elevation, QT prolongation, allergic reactions, rare hearing loss."
     },
     {
         "id": 8,
@@ -94,7 +101,8 @@
         "price": "Unit Price: ৳ 24.50",
         "indications": "Azithromycin is used to treat a wide variety of bacterial infections. It is a macrolide-type antibiotic. It works by stopping the growth of bacteria.",
         "dosage": "Adults: 500 mg once daily for 3 days or 500 mg on day 1 followed by 250 mg once daily on days 2 through 5.",
-        "image": "https://i.ibb.co.com/ccpK1dMv/zithrin-500-mg-tablet-60877720448-i1-Gce-Ug5-Ijl539-Spi5-E2p-N.png"
+        "image": "https://i.ibb.co.com/ccpK1dMv/zithrin-500-mg-tablet-60877720448-i1-Gce-Ug5-Ijl539-Spi5-E2p-N.png",
+         "side_effects": "Vomiting, headache, altered taste, palpitations, photosensitivity, hypersensitivity reactions."
     },
     {
         "id": 9,
@@ -104,9 +112,10 @@
         "strength": "20 mg",
         "manufacturer": "General Pharmaceuticals Ltd.",
         "price": "Unit Price: ৳ 7.00",
-        "indications": "Esomeprazole is used to treat gastroesophageal reflux disease (GERD), ulcers, and other conditions involving excessive stomach acid.",
+        "indications": "Esomeprazole is used to treat gastroesophageal reflux disease (GERD), ulcers, and other conditions involving excessive stomach acid.Esomeprazole is a proton pump inhibitor (PPI) indicated for conditions caused by excessive stomach acid. It is used in the treatment of gastroesophageal reflux disease (GERD), where it helps reduce heartburn and prevent esophageal damage. It is also prescribed for healing erosive esophagitis and preventing gastric ulcers, particularly in patients using NSAIDs. Esomeprazole is effective in treating Zollinger-Ellison syndrome, a rare condition involving tumor-induced acid overproduction. The injectable form is reserved for hospital settings or when oral administration is not possible. It is often part of triple therapy to eradicate H. pylori infection in peptic ulcer disease.",
         "dosage": "Adults: 20 mg once daily for 4 to 8 weeks.",
-        "image": "https://i.ibb.co.com/FbGfMNst/alton-40-mg-tablet-8867906031-i1-Bb-Ob-MGPSvjlerg-E6u-JOy.webp"
+        "image": "https://i.ibb.co.com/FbGfMNst/alton-40-mg-tablet-8867906031-i1-Bb-Ob-MGPSvjlerg-E6u-JOy.webp",
+           "side_effects": "Headache, constipation, abdominal pain, gas, B12 deficiency, fracture risk with long-term use."
     },
     {
         "id": 10,
@@ -116,9 +125,10 @@
         "strength": "40 mg/vial",
         "manufacturer": "General Pharmaceuticals Ltd.",
         "price": "Unit Price: ৳ 100.00",
-        "indications": "Esomeprazole injection is used when patients cannot take the medication orally.",
+        "indications": "Esomeprazole injection is used when patients cannot take the medication orally.Esomeprazole is a proton pump inhibitor (PPI) indicated for conditions caused by excessive stomach acid. It is used in the treatment of gastroesophageal reflux disease (GERD), where it helps reduce heartburn and prevent esophageal damage. It is also prescribed for healing erosive esophagitis and preventing gastric ulcers, particularly in patients using NSAIDs. Esomeprazole is effective in treating Zollinger-Ellison syndrome, a rare condition involving tumor-induced acid overproduction. The injectable form is reserved for hospital settings or when oral administration is not possible. It is often part of triple therapy to eradicate H. pylori infection in peptic ulcer disease.",
         "dosage": "Adults: 20 to 40 mg once daily by intravenous injection over at least 3 minutes.",
-        "image": "https://i.ibb.co.com/XfZ2ptzC/d8ba3293-1edd-43db-abd7-f3901e7c52e9-600x400.jpg"
+        "image": "https://i.ibb.co.com/XfZ2ptzC/d8ba3293-1edd-43db-abd7-f3901e7c52e9-600x400.jpg",
+            "side_effects": "Injection site pain, dry mouth, fatigue, low magnesium, allergic reactions, abdominal bloating."
     },
     {
         "id": 11,
@@ -128,9 +138,10 @@
         "strength": "50 mg",
         "manufacturer": "General Pharmaceuticals Ltd.",
         "price": "Unit Price: ৳ 10.00",
-        "indications": "Losartan is used to treat high blood pressure (hypertension) and to help protect the kidneys from damage due to diabetes.",
+        "indications": "Losartan is used to treat high blood pressure (hypertension) and to help protect the kidneys from damage due to diabetes.Losartan is primarily used for the treatment of high blood pressure (hypertension), which helps reduce the risk of strokes and heart attacks. It is especially beneficial for patients with type 2 diabetes, as it protects the kidneys from damage. It works by blocking the action of certain natural substances that tighten the blood vessels, allowing blood to flow more smoothly. Additionally, Losartan may be used in patients with heart failure when ACE inhibitors are not tolerated. It is often part of a comprehensive treatment plan that includes diet, exercise, and other medications.",
         "dosage": "Adults: 50 mg once daily.",
-        "image": "https://medex.com.bd/img/generic/1600177348.jpg"
+        "image": "https://i.ibb.co.com/Z1JVdCMq/pr281587526805-5e9fbc95cf36a.jpg",
+          "side_effects": "Dizziness, back pain, nasal congestion, upper respiratory infection, fatigue, low blood pressure."
     },
     {
         "id": 12,
@@ -142,7 +153,9 @@
         "price": "Unit Price: ৳ 9.00",
         "indications": "Combination of Losartan and Hydrochlorothiazide is used to treat high blood pressure.",
         "dosage": "Adults: 1 tablet once daily.",
-        "image": "https://medex.com.bd/img/generic/1600177348.jpg"
+        "image": "https://i.ibb.co.com/Z1JVdCMq/pr281587526805-5e9fbc95cf36a.jpg",
+            "side_effects": "Dizziness, headache, dehydration, muscle cramps, low blood pressure, increased urination."
+
     
     },
       {
@@ -153,9 +166,10 @@
             "strength": "10 mg",
             "manufacturer": "General Pharmaceuticals Ltd.",
             "price": "Unit Price: ৳ 5.70",
-            "indications": "Aripiprazole is used to treat certain mental/mood disorders such as bipolar disorder, schizophrenia, Tourette's disorder, and irritability associated with autistic disorder.",
+            "indications": "Aripiprazole is used to treat certain mental/mood disorders such as bipolar disorder, schizophrenia, Tourette's disorder, and irritability associated with autistic disorder.Aripiprazole is an atypical antipsychotic medication used to treat a variety of psychiatric conditions such as schizophrenia, bipolar disorder, and major depressive disorder as an adjunct. It is also prescribed to manage irritability associated with autism spectrum disorder and symptoms of Tourette's syndrome. Aripiprazole works by regulating dopamine and serotonin activity in the brain, helping to stabilize mood, improve focus, and reduce hallucinations or delusions. This medication is favored for its lower risk of certain side effects compared to other antipsychotics. It can significantly improve daily functioning and overall quality of life in patients with chronic mental health conditions.",
             "dosage": "Adults: 10 to 15 mg once daily.",
-            "image": "https://medex.com.bd/img/generic/1600177348.jpg"
+            "image": "https://i.ibb.co.com/pvgKSHGz/ariprazole-5-mg-tablet-84896192426-i1-PI0jh45ybh0-Ii2161-VES.webp",
+              "side_effects": "Akathisia, insomnia, anxiety, nausea, dizziness, blurred vision."
         },
         {
             "id": 14,
@@ -167,19 +181,21 @@
             "price": "Unit Price: ৳ 3.52",
             "indications": "Lower dose of Aripiprazole is used for patients initiating therapy or with certain conditions.",
             "dosage": "Adults: 5 mg once daily.",
-            "image": "https://medex.com.bd/img/generic/1600177348.jpg"
+            "image": "https://i.ibb.co.com/pvgKSHGz/ariprazole-5-mg-tablet-84896192426-i1-PI0jh45ybh0-Ii2161-VES.webp",
+            "side_effects": "Somnolence, headache, constipation, weight gain, tremor, agitation."
         },
         {
-            "id": 3,
+            "id": 15,
             "generic_name": "Sacubitril + Valsartan",
             "brand_name": "Arnigen",
             "dosage_form": "Tablet",
             "strength": "24 mg + 26 mg",
             "manufacturer": "General Pharmaceuticals Ltd.",
             "price": "Unit Price: ৳ 45.00",
-            "indications": "Combination of Sacubitril and Valsartan is used to treat heart failure.",
+            "indications": "Combination of Sacubitril and Valsartan is used to treat heart failure.The 5 mg dose of Aripiprazole is typically used for patients who are beginning treatment or require a lower dose due to age, medical history, or concurrent medication use. It treats conditions such as schizophrenia, bipolar disorder, and irritability in autistic individuals. The lower dose allows for a gradual introduction to the medication, reducing the likelihood of side effects such as restlessness or sleep disturbances. This strength may also be used in maintenance therapy to sustain mood stability and prevent relapse. Aripiprazole helps improve thought processes, mood regulation, and behavior through its action on neurotransmitter systems in the brain.",
             "dosage": "Adults: 49 mg/51 mg twice daily.",
-            "image": "https://medex.com.bd/img/generic/1600177348.jpg"
+            "image": "https://i.ibb.co.com/zTSCNkJJ/images-1.jpg",
+                "side_effects": "Hypotension, dizziness, hyperkalemia, cough, renal impairment, fatigue."
         },
         {
             "id": 16,
@@ -191,7 +207,9 @@
             "price": "Unit Price: ৳ 120.00",
             "indications": "Higher strength for patients requiring increased dosage.",
             "dosage": "Adults: 97 mg/103 mg twice daily.",
-            "image": "https://medex.com.bd/img/generic/1600177348.jpg"
+            "image": "https://i.ibb.co.com/zTSCNkJJ/images-1.jpg",
+            "side_effects": "Low blood pressure, increased potassium, kidney problems, dizziness, cough, fainting."
+        
         },
         {
             "id": 17,
@@ -203,7 +221,8 @@
             "price": "Unit Price: ৳ 30.00",
             "indications": "Cefixime is used to treat various bacterial infections, including bronchitis, gonorrhea, and infections of the ears, throat, tonsils, and urinary tract.",
             "dosage": "Adults: 200-400 mg once daily.",
-            "image": "https://medex.com.bd/img/generic/1600177348.jpg"
+            "image": "https://i.ibb.co.com/Y4s130BN/adexim-125-tablets-018.jpg",
+                "side_effects": "Diarrhea, nausea, abdominal pain, dyspepsia, headache, rash."
         },
         {
             "id": 18,
@@ -215,7 +234,8 @@
             "price": "Unit Price: ৳ 35.00",
             "indications": "Cefixime is used to treat various bacterial infections, including bronchitis, gonorrhea, and infections of the ears, throat, tonsils, and urinary tract.",
             "dosage": "Adults: 200-400 mg once daily.",
-            "image": "https://medex.com.bd/img/generic/1600177348.jpg"
+            "image": "https://i.ibb.co.com/Gv3XXMBn/images-2.jpg",
+              "side_effects": "Gastrointestinal upset, flatulence, headache, skin rash, dizziness, candidiasis."
         },
         {
             "id": 19,
@@ -227,7 +247,8 @@
             "price": "Unit Price: ৳ 10.50",
             "indications": "Flucloxacillin is used to treat bacterial infections, including skin and soft tissue infections, respiratory tract infections, and bone infections.",
             "dosage": "Adults: 250-500 mg every 6 hours.",
-            "image": "https://medex.com.bd/img/generic/1600177348.jpg"
+            "image": "https://i.ibb.co.com/SXp1yKG4/ey-Jid-WNr-ZXQi-Oi-Jhcm9n-Z2-Ei-LCJr-ZXki-Oi-JQcm9kd-WN0-LXBfa-W1h-Z2-Vz-XC83-ODc1-XC83-ODc1-LUZsd-W.webp",
+                "side_effects": "Nausea, vomiting, diarrhea, skin rash, liver function changes, allergic reactions."
         },
         {
             "id": 20,
@@ -239,7 +260,8 @@
             "price": "Unit Price: ৳ 45.25",
             "indications": "Cefdinir is used to treat a wide variety of bacterial infections, including respiratory tract infections, skin infections, and ear infections.",
             "dosage": "Adults: 300 mg every 12 hours or 600 mg once daily.",
-            "image": "https://medex.com.bd/img/generic/1600177348.jpg"
+            "image": "https://i.ibb.co.com/cKR166WF/adiron-30-mg-capsule-69337505190-i1-z-IEc-GC4n-MJrp-Zu-Du-F1-Ag.jpg",
+            "side_effects": "Diarrhea, headache, abdominal pain, nausea, vaginal yeast infection, rash."
         },
         {
             "id": 21,
@@ -251,7 +273,8 @@
             "price": "Unit Price: ৳ 40.00",
             "indications": "Orlistat is used to aid in weight loss or to help reduce the risk of regaining weight already lost. It works by blocking the absorption of some of the fat from the foods you eat.",
             "dosage": "Adults: 120 mg three times daily with each main meal containing fat.",
-            "image": "https://medex.com.bd/img/generic/1600177348.jpg"
+            "image": "https://i.ibb.co.com/RGVSDCTz/adiponil-120-mg-capsule-29145701751-i1-c67-CJf-Fux-Zp-J9-QCTXA15.jpg",
+            "side_effects": "Oily spotting, gas with discharge, fecal urgency, increased defecation, abdominal cramps, headache."
         },
         {
             "id": 22,
@@ -263,7 +286,8 @@
             "price": "Unit Price: ৳ 11.00",
             "indications": "Ferric maltol is used to treat iron deficiency anemia in adults.",
             "dosage": "Adults: 30 mg twice daily.",
-            "image": "https://medex.com.bd/img/generic/1600177348.jpg"
+            "image": "https://i.ibb.co.com/n8tZ4yZn/ey-Jid-WNr-ZXQi-Oi-Jhcm9n-Z2-Ei-LCJr-ZXki-Oi-JQcm9kd-WN0-LXBfa-W1h-Z2-Vz-XC8x-OTAw-XC8x-OTAw-LWF2b-G.webp",
+            "side_effects": "Abdominal pain, constipation, flatulence, diarrhea, nausea, headache."
         },
         {
             "id": 23,
@@ -275,7 +299,8 @@
             "price": "Unit Price: ৳ 25.00",
             "indications": "Azithromycin is used to treat a wide variety of bacterial infections, including respiratory infections, skin infections, ear infections, and sexually transmitted diseases.",
             "dosage": "Adults: 500 mg on the first day, followed by 250 mg once daily for the next 4 days.",
-            "image": "https://medex.com.bd/img/generic/1600177348.jpg"
+            "image": "https://i.ibb.co.com/pryWLP42/images.jpg",
+             "side_effects": "Nausea, vomiting, diarrhea, abdominal pain, headache, rash."
         },
         {
             "id": 24,
@@ -287,7 +312,8 @@
             "price": "Unit Price: ৳ 7.50",
             "indications": "Amoxicillin is used to treat a wide variety of bacterial infections, including infections of the ear, nose, throat, skin, and urinary tract.",
             "dosage": "Adults: 500 mg every 8 hours or 875 mg every 12 hours.",
-            "image": "https://medex.com.bd/img/generic/1600177348.jpg"
+            "image": "https://i.ibb.co.com/TDvFxpPy/ey-Jid-WNr-ZXQi-Oi-Jhcm9n-Z2-Ei-LCJr-ZXki-Oi-JQcm9kd-WN0-LXBfa-W1h-Z2-Vz-XC8z-NDg2-XC8z-NDg2-LUNl-Zm.webp",
+              "side_effects": "Diarrhea, nausea, rash, vomiting, allergic reactions, yeast infection."
         },
         {
             "id": 25,
@@ -299,7 +325,8 @@
             "price": "Unit Price: ৳ 12.04",
             "indications": "Cefadroxil is used to treat various bacterial infections, including skin infections and urinary tract infections.",
             "dosage": "Adults: 500 mg to 1 g every 12 hours.",
-            "image": "https://medex.com.bd/img/generic/1600177348.jpg"
+            "image": "https://i.ibb.co.com/HDx9MrsS/019859-68259.webp",
+            "side_effects": "Nausea, vomiting, diarrhea, abdominal pain, skin rash, allergic reactions."
         }
 ]
  
