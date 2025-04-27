@@ -25,16 +25,16 @@ import MedicineDetails from "../pages/Medicine/Medicine/MedicineDetails";
       {
         path: '/item/:_id',
         element: <ItemDetails></ItemDetails>,
-        loader:()=>fetch('blog.json')
+        loader:()=>fetch('http://localhost:5000/blog')
     },
     {
       path: 'medicine',
       element: <Medicine></Medicine>
   },
   {
-    path: '/medi/:id',
+    path: '/medi/:_id',
     element: <MedicineDetails></MedicineDetails>,
-    loader:()=>fetch('../medicine.json')
+    loader:()=>fetch('http://localhost:5000/medicine')
 },
       ]
     },

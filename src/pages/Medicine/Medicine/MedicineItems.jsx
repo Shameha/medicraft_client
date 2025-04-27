@@ -3,7 +3,7 @@
 import { Link } from "react-router-dom";
 
 const MedicineItems = ({items}) => {
-    const{ id,brand_name,manufacturer,price,image}=items
+    const{ _id,brand_name,manufacturer,price,image}=items
     return (
       <div className="card bg-gray-100 mt-10 w-96 shadow-sm">
       <figure className="px-10 pt-10">
@@ -17,7 +17,7 @@ const MedicineItems = ({items}) => {
         <p>{manufacturer}</p>
         <p>{price}</p>
         <div className="flex flex-wrap justify-between pt-3 space-x-2 text-xs dark:text-gray-600">
-               <Link to={`/medi/${id}`}>
+               <Link to={`/medi/${_id}`}>
                <button className="btn btn-soft btn-accent">View details</button>
                </Link>
                <button className="btn btn-soft btn-accent">Buy now</button>

@@ -1,7 +1,7 @@
 [
     
     {
-        "id": 1,
+        "_id": 1,
         "generic_name": "Paracetamol",
         "brand_name": "Ace",
         "dosage_form": "Tablet",
@@ -14,7 +14,7 @@
        "side_effects": "Nausea, allergic skin reactions, liver damage (high dose), low blood pressure (rare), blood disorders (rare), breathing issues in asthmatics."
     },
     {
-        "id": 2,
+        "_id": 2,
         "generic_name": "Paracetamol",
         "brand_name": "Napa",
         "dosage_form": "Tablet",
@@ -27,7 +27,7 @@
             "side_effects": "Rash, elevated liver enzymes, hepatotoxicity, rare allergic reactions, GI upset, methemoglobinemia (very rare)."
     },
     {
-        "id": 3,
+        "_id": 3,
         "generic_name": "Ibuprofen",
         "brand_name": "Ibufen",
         "dosage_form": "Tablet",
@@ -40,7 +40,7 @@
          "side_effects": "Stomach pain, nausea, ulcers, dizziness, kidney dysfunction, increased blood pressure."
     },
     {
-        "id": 4,
+        "_id": 4,
         "generic_name": "Ibuprofen",
         "brand_name": "Neoprofen",
         "dosage_form": "Tablet",
@@ -53,7 +53,7 @@
         "side_effects": "Heartburn, GI ulcers, headache, tinnitus, liver/kidney impairment, allergic reactions."
     },
     {
-        "id": 5,
+        "_id": 5,
         "generic_name": "Ciprofloxacin",
         "brand_name": "Ciprocin",
         "dosage_form": "Tablet",
@@ -66,7 +66,7 @@
           "side_effects": "Nausea, diarrhea, tendonitis, sun sensitivity, dizziness, QT prolongation, rare seizures."
     },
     {
-        "id": 6,
+        "_id": 6,
         "generic_name": "Ciprofloxacin",
         "brand_name": "Cipro",
         "dosage_form": "Tablet",
@@ -79,7 +79,7 @@
         "side_effects": "Abdominal pain, skin rash, joint pain, liver issues, sleep disturbances, C. difficile infection risk."
     },
     {
-        "id": 7,
+        "_id": 7,
         "generic_name": "Azithromycin",
         "brand_name": "Azithro",
         "dosage_form": "Capsule",
@@ -92,7 +92,7 @@
             "side_effects": "Diarrhea, cramping, liver enzyme elevation, QT prolongation, allergic reactions, rare hearing loss."
     },
     {
-        "id": 8,
+        "_id": 8,
         "generic_name": "Azithromycin",
         "brand_name": "Zithrin",
         "dosage_form": "Capsule",
@@ -105,7 +105,7 @@
          "side_effects": "Vomiting, headache, altered taste, palpitations, photosensitivity, hypersensitivity reactions."
     },
     {
-        "id": 9,
+        "_id": 9,
         "generic_name": "Esomeprazole",
         "brand_name": "Alton",
         "dosage_form": "Tablet",
@@ -118,7 +118,7 @@
            "side_effects": "Headache, constipation, abdominal pain, gas, B12 deficiency, fracture risk with long-term use."
     },
     {
-        "id": 10,
+        "_id": 10,
         "generic_name": "Esomeprazole",
         "brand_name": "Alton",
         "dosage_form": "Injection",
@@ -131,7 +131,7 @@
             "side_effects": "Injection site pain, dry mouth, fatigue, low magnesium, allergic reactions, abdominal bloating."
     },
     {
-        "id": 11,
+        "_id": 11,
         "generic_name": "Losartan Potassium",
         "brand_name": "Anreb",
         "dosage_form": "Tablet",
@@ -144,7 +144,7 @@
           "side_effects": "Dizziness, back pain, nasal congestion, upper respiratory infection, fatigue, low blood pressure."
     },
     {
-        "id": 12,
+        "_id": 12,
         "generic_name": "Losartan Potassium",
         "brand_name": "Anreb Plus",
         "dosage_form": "Tablet",
@@ -159,7 +159,7 @@
     
     },
       {
-            "id": 13,
+            "_id": 13,
             "generic_name": "Aripiprazole",
             "brand_name": "Ariprazole",
             "dosage_form": "Tablet",
@@ -172,7 +172,7 @@
               "side_effects": "Akathisia, insomnia, anxiety, nausea, dizziness, blurred vision."
         },
         {
-            "id": 14,
+            "_id": 14,
             "generic_name": "Aripiprazole",
             "brand_name": "Ariprazole",
             "dosage_form": "Tablet",
@@ -185,7 +185,7 @@
             "side_effects": "Somnolence, headache, constipation, weight gain, tremor, agitation."
         },
         {
-            "id": 15,
+            "_id": 15,
             "generic_name": "Sacubitril + Valsartan",
             "brand_name": "Arnigen",
             "dosage_form": "Tablet",
@@ -198,7 +198,7 @@
                 "side_effects": "Hypotension, dizziness, hyperkalemia, cough, renal impairment, fatigue."
         },
         {
-            "id": 16,
+            "_id": 16,
             "generic_name": "Sacubitril + Valsartan",
             "brand_name": "Arnigen",
             "dosage_form": "Tablet",
@@ -212,7 +212,7 @@
         
         },
         {
-            "id": 17,
+            "_id": 17,
             "generic_name": "Cefixime",
             "brand_name": "Adexim",
             "dosage_form": "Capsule",
@@ -225,7 +225,7 @@
                 "side_effects": "Diarrhea, nausea, abdominal pain, dyspepsia, headache, rash."
         },
         {
-            "id": 18,
+            "_id": 18,
             "generic_name": "Cefixime",
             "brand_name": "Aegis",
             "dosage_form": "Capsule",
@@ -238,7 +238,7 @@
               "side_effects": "Gastrointestinal upset, flatulence, headache, skin rash, dizziness, candidiasis."
         },
         {
-            "id": 19,
+            "_id": 19,
             "generic_name": "Flucloxacillin Sodium",
             "brand_name": "Adflox",
             "dosage_form": "Capsule",
@@ -251,7 +251,7 @@
                 "side_effects": "Nausea, vomiting, diarrhea, skin rash, liver function changes, allergic reactions."
         },
         {
-            "id": 20,
+            "_id": 20,
             "generic_name": "Cefdinir",
             "brand_name": "Adinir",
             "dosage_form": "Capsule",
@@ -264,7 +264,7 @@
             "side_effects": "Diarrhea, headache, abdominal pain, nausea, vaginal yeast infection, rash."
         },
         {
-            "id": 21,
+            "_id": 21,
             "generic_name": "Orlistat",
             "brand_name": "Adiponil",
             "dosage_form": "Capsule",
@@ -277,7 +277,7 @@
             "side_effects": "Oily spotting, gas with discharge, fecal urgency, increased defecation, abdominal cramps, headache."
         },
         {
-            "id": 22,
+            "_id": 22,
             "generic_name": "Ferric Maltol",
             "brand_name": "Adiron",
             "dosage_form": "Capsule",
@@ -290,7 +290,7 @@
             "side_effects": "Abdominal pain, constipation, flatulence, diarrhea, nausea, headache."
         },
         {
-            "id": 23,
+            "_id": 23,
             "generic_name": "Azithromycin Dihydrate",
             "brand_name": "Adiz",
             "dosage_form": "Capsule",
@@ -303,7 +303,7 @@
              "side_effects": "Nausea, vomiting, diarrhea, abdominal pain, headache, rash."
         },
         {
-            "id": 24,
+            "_id": 24,
             "generic_name": "Amoxicillin Trihydrate",
             "brand_name": "Admox DS",
             "dosage_form": "Capsule",
@@ -316,7 +316,7 @@
               "side_effects": "Diarrhea, nausea, rash, vomiting, allergic reactions, yeast infection."
         },
         {
-            "id": 25,
+            "_id": 25,
             "generic_name": "Cefadroxil Monohydrate",
             "brand_name": "Adocil",
             "dosage_form": "Capsule",

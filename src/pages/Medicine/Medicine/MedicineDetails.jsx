@@ -8,14 +8,14 @@ import { TbCoinTaka } from "react-icons/tb";
 import { FaHeartbeat } from "react-icons/fa";
 import { GiOverdose } from "react-icons/gi";
 
-
+import { FaHeadSideVirus } from "react-icons/fa";
 
 const MedicineDetails = () => {
     const dose = useLoaderData();
-    const {id} =useParams();
-    const idInt =parseInt(id);
+    const {_id} =useParams();
+    const idInt =parseInt(_id);
   
-    const doses = dose.find(doses => doses.id === idInt);
+    const doses = dose.find(doses => doses._id === idInt);
     console.log(doses);
     
     // const { pathname } = useLocation();
@@ -87,7 +87,10 @@ const MedicineDetails = () => {
         </p>
       </div>
       <div className="bg-gray-100 p-4 rounded">
-        <h2 className="text-xl font-semibold mb-2">side Effects</h2>
+       <div className="flex">
+       <h2 className="text-xl font-semibold mb-2">side Effects</h2>
+       <FaHeadSideVirus />
+       </div>
         <p>
         {doses.side_effects}
         </p>
