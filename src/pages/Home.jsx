@@ -2,6 +2,7 @@
 
 import Banner from "./Banner/Banner";
 import Category from "./Category/Category";
+import ExtraSection from "./Shared/ExtraSection/ExtraSection";
 import Faq from "./Shared/Faq/Faq";
 import PopularManu from "./Shared/PopularManu/PopularManu";
 import { Helmet} from 'react-helmet-async';
@@ -17,6 +18,7 @@ const Home = () => {
             <Banner></Banner>
             <Category></Category>
             <PopularManu></PopularManu>
+            <ExtraSection></ExtraSection>
             <Faq></Faq>
         </div>
     );

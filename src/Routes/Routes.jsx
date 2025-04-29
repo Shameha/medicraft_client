@@ -8,6 +8,7 @@ import Article from "../pages/Article/Article/Article";
 import ItemDetails from "../pages/Article/Article/ItemDetails";
 import Medicine from "../pages/Medicine/Medicine/Medicine";
 import MedicineDetails from "../pages/Medicine/Medicine/MedicineDetails";
+import Doctors from "../pages/Doctors/Doctors/Doctors";
  
   export const router = createBrowserRouter([
     {
@@ -23,6 +24,10 @@ import MedicineDetails from "../pages/Medicine/Medicine/MedicineDetails";
           element: <Article></Article>
       },
       {
+        path: 'doctor',
+        element:<Doctors></Doctors>
+      },
+      {
         path: '/item/:_id',
         element: <ItemDetails></ItemDetails>,
         loader:()=>fetch('http://localhost:5000/blog')
@@ -36,6 +41,8 @@ import MedicineDetails from "../pages/Medicine/Medicine/MedicineDetails";
     element: <MedicineDetails></MedicineDetails>,
     loader:()=>fetch('http://localhost:5000/medicine')
 },
+
+
       ]
     },
   ]);

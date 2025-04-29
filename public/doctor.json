@@ -1,0 +1,202 @@
+[
+    {
+      "_id": 1,
+      "name": "Dr. Farzana Rahman",
+      "specialty": "Cardiologist",
+      "education": "MBBS, MD (Cardiology) - Dhaka Medical College",
+      "experience": "12 years of experience in cardiology",
+      "image": "https://i.ibb.co.com/hJ5N5SFY/Dr-Farzana-Rahman-Chowdhury.jpg",
+      "visiting_hours": "Sunday to Thursday, 4 PM - 8 PM",
+      "location": "Square Hospital, Dhaka"
+    },
+    {
+      "_id": 2,
+      "name": "Dr. Aminul Islam",
+      "specialty": "Dermatologist",
+      "education": "MBBS, FCPS (Dermatology) - Chittagong Medical College",
+      "experience": "8 years of experience in skin and cosmetic treatment",
+      "image": "https://i.ibb.co.com/BH1s7mjd/aminul.jpg",
+      "visiting_hours": "Monday, Wednesday, Saturday, 2 PM - 6 PM",
+      "location": "Labaid Hospital, Chattogram"
+    },
+    {
+      "_id": 3,
+      "name": "Dr. Nusrat Jahan",
+      "specialty": "Pediatrician",
+      "education": "MBBS, DCH - Rajshahi Medical College",
+      "experience": "10 years of experience in child healthcare",
+      "image": "https://i.ibb.co.com/7tDsgSmq/images-5.jpg",
+      "visiting_hours": "Sunday to Thursday, 10 AM - 1 PM",
+      "location": "United Hospital, Dhaka"
+    },
+    {
+      "_id": 4,
+      "name": "Dr. Kamrul Hasan",
+      "specialty": "Orthopedic Surgeon",
+      "education": "MBBS, MS (Ortho) - BSMMU",
+      "experience": "15 years in orthopedic surgery",
+      "image": "https://i.ibb.co.com/hRFxfHCr/kamrul.webp",
+      "visiting_hours": "Saturday to Wednesday, 5 PM - 9 PM",
+      "location": "Popular Diagnostic Center, Sylhet"
+    },
+    {
+      "_id": 5,
+      "name": "Dr. Mita Chowdhury",
+      "specialty": "Gynecologist",
+      "education": "MBBS, FCPS (Gynecology & Obstetrics) - Dhaka Medical College",
+      "experience": "11 years in gynecology and obstetrics",
+      "image": "https://i.ibb.co.com/Y7Yg4cdn/main-Image.webp",
+      "visiting_hours": "Sunday to Thursday, 11 AM - 3 PM",
+      "location": "Ibn Sina Hospital, Khulna"
+    },
+    {
+      "_id": 6,
+      "name": "Dr. Tanvir Alam",
+      "specialty": "Neurologist",
+      "education": "MBBS, MD (Neurology) - BSMMU",
+      "experience": "14 years treating neurological disorders",
+      "image": "https://i.ibb.co.com/TMvyTSyP/Dr-Samir-Azam.jpg",
+      "visiting_hours": "Sunday, Tuesday, Thursday, 3 PM - 7 PM",
+      "location": "Evercare Hospital, Dhaka"
+    },
+    {
+      "_id": 7,
+      "name": "Dr. Shaila Ahmed",
+      "specialty": "Endocrinologist",
+      "education": "MBBS, MD (Endocrinology) - Dhaka Medical College",
+      "experience": "9 years treating hormonal disorders",
+      "image": "https://i.ibb.co.com/BKNBVYxj/Dr-Marufa-Mustari.jpg",
+      "visiting_hours": "Monday to Thursday, 9 AM - 12 PM",
+      "location": "Central Hospital, Dhaka"
+    },
+    {
+      "_id": 8,
+      "name": "Dr. Rahat Hossain",
+      "specialty": "Psychiatrist",
+      "education": "MBBS, FCPS (Psychiatry) - Sylhet MAG Osmani Medical College",
+      "experience": "13 years in mental health",
+      "image": "https://i.ibb.co.com/sJNRXBCc/Dr-Rowshon-Ara-Kakoli.jpg",
+      "visiting_hours": "Saturday to Wednesday, 2 PM - 6 PM",
+      "location": "Green Life Hospital, Dhaka"
+    },
+    {
+      "_id": 9,
+      "name": "Dr. Tania Sultana",
+      "specialty": "Ophthalmologist",
+      "education": "MBBS, MS (Ophthalmology) - Rangpur Medical College",
+      "experience": "7 years in eye surgery and vision care",
+      "image": "https://i.ibb.co.com/rf4Lwdt3/images-3.jpg",
+      "visiting_hours": "Sunday to Thursday, 10 AM - 2 PM",
+      "location": "Vision Eye Hospital, Rangpur"
+    },
+    {
+      "_id": 10,
+      "name": "Dr. Zahidul Karim",
+      "specialty": "General Surgeon",
+      "education": "MBBS, FCPS (Surgery) - Dhaka Medical College",
+      "experience": "18 years in general and laparoscopic surgery",
+      "image": "https://i.ibb.co.com/3m5ccbL6/Prof-Dr-Sheikh-Hasanur-Rahman.jpg",
+      "visiting_hours": "Monday to Thursday, 4 PM - 8 PM",
+      "location": "Bangladesh Specialized Hospital, Dhaka"
+    },    {
+        "_id": 11,
+        "name": "Dr. Laila Noor",
+        "specialty": "Oncologist",
+        "education": "MBBS, MD (Oncology) - BSMMU",
+        "experience": "10 years in cancer treatment",
+        "image": "https://i.ibb.co.com/HLGXXy8P/Prof-Dr-Nahid-Mahjabin-Morshed.jpg",
+        "visiting_hours": "Sunday to Wednesday, 3 PM - 7 PM",
+        "location": "National Cancer Research Institute, Dhaka"
+      },
+      {
+        "_id": 12,
+        "name": "Dr. Saifuddin Ahmed",
+        "specialty": "Nephrologist",
+        "education": "MBBS, MD (Nephrology) - Dhaka Medical College",
+        "experience": "12 years in kidney disease treatment",
+        "image": "https://i.ibb.co.com/391S4fVv/Prof-Dr-Minhaj-Rahim-Choudhury.jpg",
+        "visiting_hours": "Monday, Wednesday, Friday, 10 AM - 1 PM",
+        "location": "Ibrahim Cardiac Hospital, Dhaka"
+      },
+      {
+        "_id": 13,
+        "name": "Dr. Nilufa Yasmin",
+        "specialty": "ENT Specialist",
+        "education": "MBBS, MS (ENT) - Chittagong Medical College",
+        "experience": "9 years in ENT treatment",
+        "image": "https://i.ibb.co.com/Xrs7ZvSM/images-6.jpg",
+        "visiting_hours": "Saturday to Thursday, 9 AM - 1 PM",
+        "location": "Lions Eye & ENT Hospital, Khulna"
+      },
+      {
+        "_id": 14,
+        "name": "Dr. Mahmudul Hasan",
+        "specialty": "Urologist",
+        "education": "MBBS, MS (Urology) - BSMMU",
+        "experience": "11 years in urology",
+        "image": "https://i.ibb.co.com/bjTMgQpj/Prof-Dr-Md-Monjurul-Alam.jpg",
+        "visiting_hours": "Sunday to Thursday, 4 PM - 9 PM",
+        "location": "Medinova Medical Services, Sylhet"
+      },
+      {
+        "_id": 15,
+        "name": "Dr. Rafiq Sarker",
+        "specialty": "Gastroenterologist",
+        "education": "MBBS, MD (Gastroenterology) - Rajshahi Medical College",
+        "experience": "14 years treating stomach and liver diseases",
+        "image": "https://i.ibb.co.com/RfRR9n2/Prof-Dr-A-S-M-A-Raihan.jpg",
+        "visiting_hours": "Sunday, Tuesday, Thursday, 2 PM - 6 PM",
+        "location": "Popular Diagnostic Center, Dhaka"
+      },
+      {
+        "_id": 16,
+        "name": "Dr. Sultana Akter",
+        "specialty": "Rheumatologist",
+        "education": "MBBS, MD (Rheumatology) - BSMMU",
+        "experience": "8 years in arthritis and joint diseases",
+        "image": "https://i.ibb.co.com/zWQP3895/images-7.jpg",
+        "visiting_hours": "Monday, Wednesday, Saturday, 11 AM - 3 PM",
+        "location": "Labaid Specialized Hospital, Dhaka"
+      },
+      {
+        "_id": 17,
+        "name": "Dr. Rezaul Karim",
+        "specialty": "Hepatologist",
+        "education": "MBBS, MD (Hepatology) - Dhaka Medical College",
+        "experience": "10 years in liver disease management",
+        "image": "https://i.ibb.co.com/vMQ5RYF/Prof-Dr-A-K-M-Anwarul-Islam.jpg",
+        "visiting_hours": "Sunday to Wednesday, 10 AM - 12 PM",
+        "location": "Ibn Sina Hospital, Dhaka"
+      },
+      {
+        "_id": 18,
+        "name": "Dr. Nafisa Islam",
+        "specialty": "Pulmonologist",
+        "education": "MBBS, MD (Pulmonology) - Chittagong Medical College",
+        "experience": "7 years in respiratory care",
+        "image": "https://i.ibb.co.com/s4SsDWZ/images-8.jpg",
+        "visiting_hours": "Sunday to Thursday, 9 AM - 1 PM",
+        "location": "BIRDEM General Hospital, Dhaka"
+      },
+      {
+        "_id": 19,
+        "name": "Dr. Habib Ullah",
+        "specialty": "Allergist & Immunologist",
+        "education": "MBBS, MD (Allergy & Immunology) - Dhaka Medical College",
+        "experience": "6 years in allergy and immune disorders",
+        "image": "https://i.ibb.co.com/TMvyTSyP/Dr-Samir-Azam.jpg",
+        "visiting_hours": "Saturday to Wednesday, 3 PM - 6 PM",
+        "location": "National Institute of Chest Diseases, Savar"
+      },
+      {
+        "_id": 20,
+        "name": "Dr. Farida Haque",
+        "specialty": "Hematologist",
+        "education": "MBBS, MD (Hematology) - BSMMU",
+        "experience": "13 years in blood-related diseases",
+        "image": "https://i.ibb.co.com/nq2h9m56/images-4.jpg",
+        "visiting_hours": "Sunday to Thursday, 11 AM - 2 PM",
+        "location": "Bangladesh Medical College Hospital, Dhaka"
+      }
+  
+  ]
